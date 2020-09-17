@@ -1,0 +1,71 @@
+#navigation-bar { 
+    
+    min-height: 40px;
+    height: 40px;
+    background-color: rgb(94, 145, 200);
+    display: flex;
+    align-items: center;
+    text-align: left;
+    justify-content: space-between;
+}
+
+
+
+.logo {
+    
+    width: 50px;
+    height: 50px;
+ 
+}
+.artwork {
+    width: 100%;
+    height: auto;
+}
+#p1 {
+    display: flex;
+    text-align: left;
+    justify-content: space-between;
+
+}
+
+.t1 {
+    width: 48%;
+    height: 100%;
+}
+
+
+.picture1 {
+    width:48%;
+    Height:100%;
+    
+}
+
+h1{
+  margin:1;
+  font-size: 60px;
+}
+h2{
+    
+    font-size: 40px
+}
+
+.logo1{
+    width: 60px;
+    height: 50px;
+}
+.logo2{
+    width: 50px;
+    height: 50px;
+}
+* {
+    font-family: Helvetica;
+}
+.foot-bar {
+    min-height: 50px;
+    height: 50px;
+    background-color: rgb(94, 145, 200);
+    display: flex;
+    text-align: left;
+    justify-content: flex-end;
+    
+}

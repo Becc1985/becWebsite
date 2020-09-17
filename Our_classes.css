@@ -1,0 +1,85 @@
+#navigation-bar { 
+    
+    min-height: 40px;
+    height: 40px;
+    background-color: rgb(94, 145, 200);
+    display: flex;
+    align-items: center;
+    text-align: left;
+    justify-content: space-between;
+}
+.logo {
+    width: 50px;
+    height: 50px;
+   
+}
+.artwork {
+    width: 100%;
+    height: auto;
+}
+* {
+   font-family: Helvetica;
+}
+.picture4{
+    width: 48%;
+    height: 100%;
+
+}
+.picture6{
+    width: 48%;
+    height: 100%;
+
+}
+.picture5 {
+    width: 48%;
+    height: 100%;
+}
+.logo1{
+    width: 60px;
+    height: 50px;
+}
+.logo2{
+    width: 50px;
+    height: 50px;
+}
+.foot-bar {
+    min-height: 50px;
+    height: 50px;
+    background-color: rgb(94, 145, 200);
+    display: flex;
+    text-align: left;
+    justify-content: flex-end;
+    
+}
+#spinning {
+    display: flex;
+
+    align-items: center;
+    text-align: left;
+    justify-content: space-between;
+}
+.text1 {
+    width: 48%;
+    height: 100%;
+}
+#legs {
+    display: flex;
+    align-items: center;
+    text-align: left;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+}
+.text2 {
+    width: 48%;
+    height: 100%;
+}
+#combat {
+    display: flex;
+    align-items: center;
+    text-align: left;
+    justify-content: space-between;
+}
+.text3 {
+    width: 48%;
+    height: 100%;
+}
